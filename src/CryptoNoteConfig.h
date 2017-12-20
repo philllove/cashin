@@ -73,7 +73,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "cashier_conf.jso
 } // parameters
 
 //TODO Put here the name of your currency
-const char     CRYPTONOTE_NAME[]                             = "cashin";
+const char     CRYPTONOTE_NAME[]                             = "hydrogen";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
